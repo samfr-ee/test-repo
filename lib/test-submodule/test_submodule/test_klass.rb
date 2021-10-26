@@ -10,5 +10,8 @@ module TestSubmodule
     def test
       "#{test} #{klass}"
     end
+
+    def a_new_method
+    end
   end
 end
